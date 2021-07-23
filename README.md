@@ -4,8 +4,9 @@ It is was implemented using Python language, Pandas, Matplotlib, Seaborn, and Nu
 
 # Dataset
 The dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
-The dataset can be downloaded from ![here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv).
-The dataset contains these key columns:<br/>
+The dataset can be downloaded from [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv).
+<br/>
+The dataset contains these key columns:
 - Member Year of Birth
 - Member Gender
 - User Type (Subscriber or Customer)
