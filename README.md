@@ -7,7 +7,7 @@ It is was implemented using Python language, Pandas, Matplotlib, Seaborn, and Nu
 The dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 <br/>
 The dataset can be downloaded from [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv).
-<br/>
+<br/><br/>
 The dataset contains these key columns:
 - Member Year of Birth
 - Member Gender
@@ -37,3 +37,15 @@ The dataset contains these key columns:
 - The user types distribution of bike trips was (90.5%) are subscriber, while customer are (9.5%).
 
 ## Bivariate Exploration
+- The importance of including user type in data analysis revealed that there are some differences in the behavior of customers and subscribers
+- The average bike trip duration in minutes per user type was (10.679922) are subscriber, while customer are (21.847536).
+- The distribution of bike trip duration in minutes per user type was the distribution of customer trip time shows more variability than subscribers.
+- The number of bike trips gender per user type was a subscribers bigger than customers.
+- The distribution of bike trips used per day hour was a subscribers bigger than customers.
+- The number of bike trips for subscribers is higher on work days (Monday, Tuesday, Wednesday, Thursday, Friday) and lower on weekends days (Saturday, Sunday) in San Francisco.
+- The number of bike trips for customers is consistent on all week days in San Francisco.
+
+## Multivariate Exploration
+- I've observed that male customers take longer bike trips than female customers.
+- I've observed that males take long bike trips from 11 AM to 4 PM.
+- I've observed that subscribers take long bike trips from 11 AM to 5 PM.
