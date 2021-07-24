@@ -51,4 +51,4 @@ The dataset contains these key columns:
 - I've observed that subscribers take long bike trips from 11 AM to 5 PM.
 
 # Key Insights for Presentation 
-In the presentation I summarized my key findings, displaying key univariate, bivariate, and multivariate plots. The interaction between the hour of the day, bike trip duration in seconds, and user type were surprising. The number of bike trips for subscribers is less on weekends, as opposed to customers which stays consistent on all week days.
+In the presentation I summarized my key findings, displaying key univariate, bivariate, and multivariate plots. 
